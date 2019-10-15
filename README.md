@@ -3,7 +3,7 @@
 様々なプログラミング言語でハノイの塔を実装
 
 ## 言語一覧
- | 言語 | ファイル名 | Contoributer |
+ | 言語 | ファイル名 | Contributer |
  | --- | --- | --- |
  | Assembly | [HANOI.cas](https://github.com/shumaikunkun/Hanoi/blob/master/HANOI.cas) | [shumaikunkun] |
  | Brainfuck | [hanoi.bf](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.bf) | [shumaikunkun] |
