@@ -31,3 +31,10 @@
 
 [shumaikunkun]:https://github.com/shumaikunkun
 [narumincho]:https://github.com/narumincho
+
+## 目的
+入出力や条件分岐、再帰によるサブ関数の作成や呼び出しなど、プログラミングにおける基本文法を様々な言語で実装することで、比較したり新たな言語を発掘し基本文法の学習に役立てる。
+
+## 主な実行環境
++ ローカルの環境
++ Web上のIDE(http://ideone.com/)
