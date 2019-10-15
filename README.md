@@ -13,8 +13,8 @@
 |C#|cs|shumaikunkun|
 |Java|java||
 |R|r|shumaikunkun|
-|JavaScript|js||
-|TypeScript|ts||
+|JavaScript|js|narumincho|
+|TypeScript|ts|narumincho|
 |Ruby|rb|shumaikunkun|
 |Python|py|shumaikunkun|
 |PHP|php|shumaikunkun|
