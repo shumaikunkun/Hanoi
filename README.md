@@ -11,6 +11,7 @@
 |PowerShell|ps1|[narumincho]|
 |LISP|lisp|[shumaikunkun]|
 |Haskell|hs|[narumincho]|
+|Pascal|pas|[shumaikunkun]|
 |C|c|[shumaikunkun]|
 |C++|cpp|[shumaikunkun]|
 |C#|cs|[shumaikunkun]|
@@ -29,4 +30,3 @@
 
 [shumaikunkun]:https://github.com/shumaikunkun
 [narumincho]:https://github.com/narumincho
-
