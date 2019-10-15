@@ -5,7 +5,7 @@
 ## 言語一覧
  | 言語 | ファイル名 | Contoributer |
  | --- | --- | --- |
- | Assembly | [hanoi.cas](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.cas) | [shumaikunkun] |
+ | Assembly | [HANOI.cas](https://github.com/shumaikunkun/Hanoi/blob/master/HANOI.cas) | [shumaikunkun] |
  | Brainfuck | [hanoi.bf](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.bf) | [shumaikunkun] |
  | Shell | [hanoi.sh](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.sh) | [shumaikunkun] |
  | PowerShell | [hanoi.ps1](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ps1) | [narumincho] |
