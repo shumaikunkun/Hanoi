@@ -18,6 +18,7 @@
  | Java | [hanoi.java](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.java) | [shumaikunkun] |
  | Go | [hanoi.go](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.go) | [narumincho] |
  | Rust | [hanoi.rs](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.rs) | [narumincho] |
+ | D | [hanoi.d](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.d) | [shumaikunkun] |
  | R | [hanoi.r](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.r) | [shumaikunkun] |
  | Perl | [hanoi.pl](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.pl) | [shumaikunkun] |
  | Ruby | [hanoi.rb](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.rb) | [shumaikunkun] |
