@@ -12,7 +12,7 @@
 |C|c|[shumaikunkun]|
 |C++|cpp|[shumaikunkun]|
 |C#|cs|[shumaikunkun]|
-|Java|java||
+|Java|java|[shumaikunkun]|
 |R|r|[shumaikunkun]|
 |JavaScript|js|[narumincho]|
 |TypeScript|ts|[narumincho]|
