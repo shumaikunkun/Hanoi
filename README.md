@@ -5,7 +5,8 @@
 ## 言語一覧
 |言語|拡張子|Contoributer|
 |---|---|---|
-|アセンブリ言語|cas|shumaikunkun|
+|Shell|sh|shumaikunkun|
+|Assembly|cas|shumaikunkun|
 |Brainfuck|bf|shumaikunkun|
 |LISP|lisp|shumaikunkun|
 |C|c|shumaikunkun|
