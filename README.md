@@ -3,31 +3,32 @@
 様々なプログラミング言語でハノイの塔を実装
 
 ## 言語一覧
- | 言語 | ファイル名 | Contributor |
- | --- | --- | --- |
- | Assembly | [HANOI.cas](https://github.com/shumaikunkun/Hanoi/blob/master/HANOI.cas) | [shumaikunkun] |
- | Brainfuck | [hanoi.bf](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.bf) | [shumaikunkun] |
- | Shell | [hanoi.sh](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.sh) | [shumaikunkun] |
- | PowerShell | [hanoi.ps1](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ps1) | [narumincho] |
- | LISP | [hanoi.lisp](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.lisp) | [shumaikunkun] |
- | Haskell | [hanoi.hs](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.hs) | [narumincho] |
- | Pascal | [hanoi.pas](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.pas) | [shumaikunkun] |
- | C | [hanoi.c](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.c) | [shumaikunkun] |
- | C++ | [hanoi.cpp](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.cpp) | [shumaikunkun] |
- | C# | [hanoi.cs](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.cs) | [shumaikunkun] |
- | Java | [hanoi.java](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.java) | [shumaikunkun] |
- | Go | [hanoi.go](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.go) | [narumincho] |
- | Rust | [hanoi.rs](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.rs) | [narumincho] |
- | D | [hanoi.d](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.d) | [shumaikunkun] |
- | R | [hanoi.r](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.r) | [shumaikunkun] |
- | Perl | [hanoi.pl](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.pl) | [shumaikunkun] |
- | Ruby | [hanoi.rb](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.rb) | [shumaikunkun] |
- | Python | [hanoi.py](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.py) | [shumaikunkun] |
- | PHP | [hanoi.php](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.php) | [shumaikunkun] |
- | JavaScript | [hanoi.js](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.js) | [narumincho] |
- | TypeScript | [hanoi.ts](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ts) | [narumincho] |
- | PureScript | [Hanoi.purs](https://github.com/shumaikunkun/Hanoi/blob/master/Hanoi.purs) | [narumincho] |
- | Elm | [Hanoi.elm](https://github.com/shumaikunkun/Hanoi/blob/master/Hanoi.elm) | [narumincho] |
+ | 番号 | 言語 | ファイル名 | Contributor |
+ | --- | --- | --- | --- |
+ | 1 | Assembly | [HANOI.cas](https://github.com/shumaikunkun/Hanoi/blob/master/HANOI.cas) | [shumaikunkun] |
+ | 2 | Brainfuck | [hanoi.bf](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.bf) | [shumaikunkun] |
+ | 3 | Shell | [hanoi.sh](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.sh) | [shumaikunkun] |
+ | 4 | PowerShell | [hanoi.ps1](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ps1) | [narumincho] |
+ | 5 | LISP | [hanoi.lisp](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.lisp) | [shumaikunkun] |
+ | 6 | Haskell | [hanoi.hs](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.hs) | [narumincho] |
+ | 7 | Pascal | [hanoi.pas](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.pas) | [shumaikunkun] |
+ | 8 | C | [hanoi.c](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.c) | [shumaikunkun] |
+ | 9 | C++ | [hanoi.cpp](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.cpp) | [shumaikunkun] |
+ | 10 | C# | [hanoi.cs](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.cs) | [shumaikunkun] |
+ | 11 | Java | [hanoi.java](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.java) | [shumaikunkun] |
+ | 12 | Go | [hanoi.go](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.go) | [narumincho] |
+ | 13 | Rust | [hanoi.rs](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.rs) | [narumincho] |
+ | 14 | D | [hanoi.d](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.d) | [shumaikunkun] |
+ | 15 | R | [hanoi.r](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.r) | [shumaikunkun] |
+ | 16 | Perl | [hanoi.pl](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.pl) | [shumaikunkun] |
+ | 17 | Ruby | [hanoi.rb](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.rb) | [shumaikunkun] |
+ | 18 | Python | [hanoi.py](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.py) | [shumaikunkun] |
+ | 19 | PHP | [hanoi.php](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.php) | [shumaikunkun] |
+ | 20 | Elixir | [hanoi.ex](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ex) | [shumaikunkun] |
+ | 21 | JavaScript | [hanoi.js](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.js) | [narumincho] |
+ | 22 | TypeScript | [hanoi.ts](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ts) | [narumincho] |
+ | 23 | PureScript | [Hanoi.purs](https://github.com/shumaikunkun/Hanoi/blob/master/Hanoi.purs) | [narumincho] |
+ | 24 | Elm | [Hanoi.elm](https://github.com/shumaikunkun/Hanoi/blob/master/Hanoi.elm) | [narumincho] |
 
 [shumaikunkun]:https://github.com/shumaikunkun
 [narumincho]:https://github.com/narumincho
