@@ -29,6 +29,7 @@
  | 22 | TypeScript | [hanoi.ts](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ts) | [narumincho] |
  | 23 | PureScript | [Hanoi.purs](https://github.com/shumaikunkun/Hanoi/blob/master/Hanoi.purs) | [narumincho] |
  | 24 | Elm | [Hanoi.elm](https://github.com/shumaikunkun/Hanoi/blob/master/Hanoi.elm) | [narumincho] |
+ | 25 | Visual Basic | [hanoi.vb](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.vb) | [shumaikunkun] |
 
 [shumaikunkun]:https://github.com/shumaikunkun
 [narumincho]:https://github.com/narumincho
