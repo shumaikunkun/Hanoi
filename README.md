@@ -30,9 +30,11 @@
  | 23 | PureScript | [Hanoi.purs](https://github.com/shumaikunkun/Hanoi/blob/master/Hanoi.purs) | [narumincho] |
  | 24 | Elm | [Hanoi.elm](https://github.com/shumaikunkun/Hanoi/blob/master/Hanoi.elm) | [narumincho] |
  | 25 | Visual Basic | [hanoi.vb](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.vb) | [shumaikunkun] |
+ | 26 | Fortran | [hanoi.f90](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.f90)  | [AstroKen] |
 
 [shumaikunkun]:https://github.com/shumaikunkun
 [narumincho]:https://github.com/narumincho
+[AstroKen]:https://github.com/AstroKen
 
 ## 目的
 入出力や条件分岐、再帰によるサブ関数の作成や呼び出しなど、プログラミングにおける基本文法を様々な言語で実装することで、比較したり新たな言語を発掘し基本文法の学習に役立てる。
