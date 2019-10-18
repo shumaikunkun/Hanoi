@@ -31,6 +31,7 @@
  | 24 | Elm | [Hanoi.elm](https://github.com/shumaikunkun/Hanoi/blob/master/Hanoi.elm) | [narumincho] |
  | 25 | Visual Basic | [hanoi.vb](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.vb) | [shumaikunkun] |
  | 26 | Fortran | [hanoi.f90](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.f90)  | [AstroKen] |
+ | 27 | Nemerle | [hanoi.n](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.n) | [shumaikunkun] |
 
 [shumaikunkun]:https://github.com/shumaikunkun
 [narumincho]:https://github.com/narumincho
