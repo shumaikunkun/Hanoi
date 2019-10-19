@@ -35,11 +35,13 @@
  | 28 | Ocaml | [hanoi.ml](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ml) | [Hirokazu Taniguchi] |
  | 29 | F# | [hanoi.fs](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.fs) | [Hirokazu Taniguchi] |
  | 30 | CoffeeScript | [hanoi.coffee](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.coffee) | [shumaikunkun] |
+ | 31 | Kotlin | [hanoi.kt](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.kt) | [Taiga Nishimura] |
 
 [shumaikunkun]:https://github.com/shumaikunkun
 [narumincho]:https://github.com/narumincho
 [AstroKen]:https://github.com/AstroKen
 [Hirokazu Taniguchi]:https://github.com/Sabanna-Hirokazu
+[Taiga Nishimura]:https://github.com/TaigaNatto
 
 ## 目的
 入出力や条件分岐、再帰によるサブ関数の作成や呼び出しなど、プログラミングにおける基本文法を様々な言語で実装することで、比較したり新たな言語を発掘し基本文法の学習に役立てる。
