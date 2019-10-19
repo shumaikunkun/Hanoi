@@ -33,6 +33,7 @@
  | 26 | Fortran | [hanoi.f90](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.f90)  | [AstroKen] |
  | 27 | Nemerle | [hanoi.n](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.n) | [shumaikunkun] |
  | 28 | Ocaml | [hanoi.ml](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ml) | [Hirokazu Taniguchi] |
+ | 29 | F# | [hanoi.fs](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.fs) | [Hirokazu Taniguchi] |
 
 [shumaikunkun]:https://github.com/shumaikunkun
 [narumincho]:https://github.com/narumincho
