@@ -5,7 +5,7 @@
 ## 言語一覧
  | 番号 | 言語 | ファイル名 | Contributor |
  | --- | --- | --- | --- |
- | 1 | Assembly | [HANOI.cas](https://github.com/shumaikunkun/Hanoi/blob/master/HANOI.cas) | [shumaikunkun] |
+ | 1 | Assembly | [hanoi.cas](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.cas) | [shumaikunkun] |
  | 2 | Brainfuck | [hanoi.bf](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.bf) | [shumaikunkun] |
  | 3 | Shell | [hanoi.sh](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.sh) | [shumaikunkun] |
  | 4 | PowerShell | [hanoi.ps1](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ps1) | [narumincho] |
