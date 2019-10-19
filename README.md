@@ -34,6 +34,7 @@
  | 27 | Nemerle | [hanoi.n](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.n) | [shumaikunkun] |
  | 28 | Ocaml | [hanoi.ml](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ml) | [Hirokazu Taniguchi] |
  | 29 | F# | [hanoi.fs](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.fs) | [Hirokazu Taniguchi] |
+ | 30 | CoffeeScript | [hanoi.coffee](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.coffee) | [shumaikunkun] |
 
 [shumaikunkun]:https://github.com/shumaikunkun
 [narumincho]:https://github.com/narumincho
@@ -46,3 +47,7 @@
 ## 主な実行環境
 + ローカルの環境
 + Web上のIDE(http://ideone.com/)
+
+## 入出力例
++ Input `3`
++ Output `a=>b a=>c b=>c a=>b c=>a c=>b a=>b`
