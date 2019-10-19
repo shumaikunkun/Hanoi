@@ -32,10 +32,12 @@
  | 25 | Visual Basic | [hanoi.vb](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.vb) | [shumaikunkun] |
  | 26 | Fortran | [hanoi.f90](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.f90)  | [AstroKen] |
  | 27 | Nemerle | [hanoi.n](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.n) | [shumaikunkun] |
+ | 28 | Ocaml | [hanoi.ml](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ml) | [Hirokazu Taniguchi] |
 
 [shumaikunkun]:https://github.com/shumaikunkun
 [narumincho]:https://github.com/narumincho
 [AstroKen]:https://github.com/AstroKen
+[Hirokazu Taniguchi]:https://github.com/Sabanna-Hirokazu
 
 ## 目的
 入出力や条件分岐、再帰によるサブ関数の作成や呼び出しなど、プログラミングにおける基本文法を様々な言語で実装することで、比較したり新たな言語を発掘し基本文法の学習に役立てる。
