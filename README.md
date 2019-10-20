@@ -38,6 +38,8 @@
  | 31 | Kotlin | [hanoi.kt](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.kt) | [Taiga Nishimura] |
  | 32 | プロデル | [hanoi.rdr](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.rdr) | [Hirokazu Taniguchi] |
  | 33 | なでしこ | [hanoi.nako](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.nako) | [Hirokazu Taniguchi] |
+ | 34 | Wolfram | [hanoi.wl](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.wl)  | [AstroKen] |
+ 
 
 
 [shumaikunkun]:https://github.com/shumaikunkun
