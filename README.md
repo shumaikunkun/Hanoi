@@ -37,6 +37,7 @@
  | 30 | CoffeeScript | [hanoi.coffee](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.coffee) | [shumaikunkun] |
  | 31 | Kotlin | [hanoi.kt](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.kt) | [Taiga Nishimura] |
  | 32 | プロデル | [hanoi.rdr](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.rdr) | [Hirokazu Taniguchi] |
+ | 33 | なでしこ | [hanoi.nako](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.nako) | [Hirokazu Taniguchi] |
 
 
 [shumaikunkun]:https://github.com/shumaikunkun
