@@ -1,0 +1,13 @@
+func hanoi(n: int, x: char, y: char, z: char)
+	if(n > 1)
+		do hanoi(n - 1, x, z, y)
+	end if
+	do cui@print(x.toStr() ~ "=>" ~ y.toStr() ~ "\n")
+	if(n > 1)
+		do hanoi(n - 1, z, y, x)
+	end if
+end func
+
+func main()
+	do @hanoi(cui@input().toInt(&), 'a', 'b', 'c')
+end func
