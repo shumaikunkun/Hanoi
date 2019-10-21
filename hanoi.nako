@@ -1,0 +1,8 @@
+3のあといにうをハノイ
+
+*ハノイ(NUMBERの、Xと、Yに、Zを)
+	もしNUMBER>1ならば
+		NUMBER-1のXとZにYをハノイ
+	「{X}=>{Y}」と言う
+	もしNUMBER>1ならば
+		NUMBER-1のZとYにXをハノイ

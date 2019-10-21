@@ -1,0 +1,21 @@
+using Nemerle.Collections;
+using Nemerle.Text;
+using Nemerle.Utility;
+
+using System;
+using System.Collections.Generic;
+using System.Console;
+using System.Linq;
+
+module Program{
+  hanoi(n:int, x:char, y:char, z:char):void{
+  	when(n>1) hanoi(n-1,x,z,y);
+  	WriteLine($"$x=>$y");
+  	when(n>1) hanoi(n-1,z,y,x);
+  }
+  Main():void{
+  	def m:string = ReadLine();
+  	WriteLine(m);
+  	hanoi(3,'a','b','c');
+  }
+}

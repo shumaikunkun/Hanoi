@@ -1,4 +1,4 @@
-#include <stdio.h>
+import std.c.stdio;
 
 void hanoi(int n,char x,char y,char z){
   if(n>1) hanoi(n-1,x,z,y);
@@ -6,7 +6,7 @@ void hanoi(int n,char x,char y,char z){
   if(n>1) hanoi(n-1,z,y,x);
 }
 
-int main(void){
+int main(){
   int n;
   scanf("%d",&n);
   hanoi(n,'a','b','c');
