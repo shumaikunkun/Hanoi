@@ -40,6 +40,7 @@
  | 33 | なでしこ | [hanoi.nako](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.nako) | [Hirokazu Taniguchi] |
  | 34 | Wolfram | [hanoi.wl](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.wl)  | [AstroKen] |
  | 35 | Groovy | [hanoi.groovy](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.groovy) | [shumaikunkun] |
+ | 36 | Kuin | [hanoi.kn](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.kn) | [narumincho] |
 
 
 [shumaikunkun]:https://github.com/shumaikunkun
