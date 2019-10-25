@@ -42,6 +42,7 @@
  | 35 | Groovy | [hanoi.groovy](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.groovy) | [shumaikunkun] |
  | 36 | Kuin | [hanoi.kn](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.kn) | [narumincho] |
  | 37 | Ada | [hanoi.ada](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ada) | [shumaikunkun] |
+ | 38 | Icon | [hanoi.icn](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.icn) | [shumaikunkun] |
 
 
 [shumaikunkun]:https://github.com/shumaikunkun
