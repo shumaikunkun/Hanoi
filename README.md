@@ -45,6 +45,7 @@
  | 38 | Icon | [hanoi.icn](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.icn) | [shumaikunkun] |
  | 39 | Scala | [hanoi.scala](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.scala) | [shumaikunkun] |
  | 40 | Scheme | [hanoi.scm](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.scm) | [shumaikunkun] |
+ | 41 | Crystal | [hanoi.cr](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.cr) | [Masato Sugiyama] |
 
 
 [shumaikunkun]:https://github.com/shumaikunkun
@@ -52,6 +53,7 @@
 [AstroKen]:https://github.com/AstroKen
 [Hirokazu Taniguchi]:https://github.com/Sabanna-Hirokazu
 [Taiga Nishimura]:https://github.com/TaigaNatto
+[Masato Sugiyama]:https://github.com/smasato
 
 ## 目的
 入出力や条件分岐、再帰によるサブ関数の作成や呼び出しなど、プログラミングにおける基本文法を様々な言語で実装することで、比較したり新たな言語を発掘し基本文法の学習に役立てる。
