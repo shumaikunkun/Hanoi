@@ -1,0 +1,11 @@
+# This is Icon code
+
+procedure main()
+	hanoi(read(),"a","b","c")
+end
+
+procedure hanoi(n,x,y,z)
+	if n>1 then hanoi(n-1,x,z,y)
+	write(x||"=>"||y)
+	if n>1 then hanoi(n-1,z,y,x)
+end
