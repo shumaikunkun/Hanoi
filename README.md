@@ -43,6 +43,7 @@
  | 36 | Kuin | [hanoi.kn](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.kn) | [narumincho] |
  | 37 | Ada | [hanoi.ada](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ada) | [shumaikunkun] |
  | 38 | Icon | [hanoi.icn](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.icn) | [shumaikunkun] |
+ | 39 | Scala | [hanoi.scala](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.scala) | [shumaikunkun] |
 
 
 [shumaikunkun]:https://github.com/shumaikunkun
