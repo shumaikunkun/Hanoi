@@ -44,6 +44,7 @@
  | 37 | Ada | [hanoi.ada](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ada) | [shumaikunkun] |
  | 38 | Icon | [hanoi.icn](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.icn) | [shumaikunkun] |
  | 39 | Scala | [hanoi.scala](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.scala) | [shumaikunkun] |
+ | 40 | Scheme | [hanoi.scm](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.scm) | [shumaikunkun] |
 
 
 [shumaikunkun]:https://github.com/shumaikunkun
