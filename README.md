@@ -46,7 +46,7 @@
  | 39 | Scala | [hanoi.scala](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.scala) | [shumaikunkun] |
  | 40 | Scheme | [hanoi.scm](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.scm) | [shumaikunkun] |
  | 41 | Crystal | [hanoi.cr](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.cr) | [Masato Sugiyama] |
- | 42 | Fantom | [hanoi.fnt](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.fnt) | [shumaikunkun] |
+ | 42 | Fantom | [hanoi.fan](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.fan) | [shumaikunkun] |
 
 
 [shumaikunkun]:https://github.com/shumaikunkun
