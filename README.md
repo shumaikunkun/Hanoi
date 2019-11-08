@@ -48,6 +48,7 @@
  | 41 | Crystal | [hanoi.cr](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.cr) | [Masato Sugiyama] |
  | 42 | Fantom | [hanoi.fan](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.fan) | [shumaikunkun] |
  | 43 | Pike | [hanoi.pike](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.pike) | [shumaikunkun] |
+ | 44 | AWK | [hanoi.awk](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.awk) | [shumaikunkun] |
 
 
 [shumaikunkun]:https://github.com/shumaikunkun
