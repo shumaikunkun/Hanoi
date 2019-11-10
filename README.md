@@ -49,6 +49,7 @@
  | 42 | Fantom | [hanoi.fan](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.fan) | [shumaikunkun] |
  | 43 | Pike | [hanoi.pike](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.pike) | [shumaikunkun] |
  | 44 | AWK | [hanoi.awk](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.awk) | [shumaikunkun] |
+ | 45 | Julia | [hanoi.jl](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.jl) | [0x005c] |
 
 
 [shumaikunkun]:https://github.com/shumaikunkun
@@ -57,6 +58,7 @@
 [Hirokazu Taniguchi]:https://github.com/Sabanna-Hirokazu
 [Taiga Nishimura]:https://github.com/TaigaNatto
 [Masato Sugiyama]:https://github.com/smasato
+[0x005c]:https://github.com/0x005c
 
 ## 目的
 入出力や条件分岐、再帰によるサブ関数の作成や呼び出しなど、プログラミングにおける基本文法を様々な言語で実装することで、比較したり新たな言語を発掘し基本文法の学習に役立てる。
