@@ -50,6 +50,7 @@
  | 43 | Pike | [hanoi.pike](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.pike) | [shumaikunkun] |
  | 44 | AWK | [hanoi.awk](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.awk) | [shumaikunkun] |
  | 45 | Julia | [hanoi.jl](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.jl) | [0x005c] |
+ | 46 | Ook! | [hanoi.ook](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ook) | [shumaikunkun] |
 
 
 [shumaikunkun]:https://github.com/shumaikunkun
