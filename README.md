@@ -52,6 +52,7 @@
  | 45 | Julia | [hanoi.jl](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.jl) | [0x005c] |
  | 46 | Ook! | [hanoi.ook](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ook) | [shumaikunkun] |
  | 47 | bc | [hanoi.bc](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.bc) | [shumaikunkun] |
+ | 48 | Aleph | [hanoi.als](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.als) | [shumaikunkun] |
 
 
 [shumaikunkun]:https://github.com/shumaikunkun
