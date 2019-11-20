@@ -1,0 +1,12 @@
+//This is bc code
+
+define out(i, j) { print i, "=>", j, "\n" }
+
+define hanoi(n, x, y, z) {
+   if(n>1) silence = hanoi(n-1, x, z, y)
+   silence = out(x, y)
+   if(n>1) silence = hanoi(n-1, z, y, x)
+}
+
+hanoi(3,1,2,3)
+//BC can only handle int type
