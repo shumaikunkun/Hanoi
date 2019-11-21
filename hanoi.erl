@@ -4,7 +4,7 @@
 -export([main/0]).
 
 main() ->
-	hanoi(3,"a","b","c").
+    hanoi(3,"a","b","c").
 
 hanoi(1,X,_,Z) -> io:format("~s=>~s~n", [X, Z]);
 hanoi(N,X,Y,Z) when N > 0 ->
