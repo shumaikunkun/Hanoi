@@ -28,17 +28,17 @@
  | 21 | JavaScript | [hanoi.js](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.js) | [narumincho] | 🙆‍♂️ |
  | 22 | TypeScript | [hanoi.ts](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ts) | [narumincho] | 🙆‍♂️ |
  | 23 | PureScript | [Hanoi.purs](https://github.com/shumaikunkun/Hanoi/blob/master/Hanoi.purs) | [narumincho] | 🙆‍♂️ |
- | 24 | Elm | [Hanoi.elm](https://github.com/shumaikunkun/Hanoi/blob/master/Hanoi.elm) | [narumincho] | 🙆‍♂️ |
+ | 24 | Elm | [Hanoi.elm](https://github.com/shumaikunkun/Hanoi/blob/master/Hanoi.elm) | [narumincho] | 🙅‍♂️ |
  | 25 | Visual Basic | [hanoi.vb](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.vb) | [shumaikunkun] | 🙆‍♂️ |
  | 26 | Fortran | [hanoi.f90](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.f90)  | [AstroKen] | 🙆‍♂️ |
- | 27 | Nemerle | [hanoi.n](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.n) | [shumaikunkun] | 🙆‍♂️ |
+ | 27 | Nemerle | [hanoi.n](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.n) | [shumaikunkun] | 🙅‍♂️ |
  | 28 | Ocaml | [hanoi.ml](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ml) | [Hirokazu Taniguchi] | 🙆‍♂️ |
- | 29 | F# | [hanoi.fs](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.fs) | [Hirokazu Taniguchi] | 🙆‍♂️ |
+ | 29 | F# | [hanoi.fs](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.fs) | [Hirokazu Taniguchi] | 🙅‍♂️ |
  | 30 | CoffeeScript | [hanoi.coffee](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.coffee) | [shumaikunkun] | 🙆‍♂️ |
  | 31 | Kotlin | [hanoi.kt](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.kt) | [Taiga Nishimura] | 🙆‍♂️ |
- | 32 | プロデル | [hanoi.rdr](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.rdr) | [Hirokazu Taniguchi] | 🙆‍♂️ |
- | 33 | なでしこ | [hanoi.nako](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.nako) | [Hirokazu Taniguchi] | 🙆‍♂️ |
- | 34 | Wolfram | [hanoi.wl](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.wl)  | [AstroKen] | 🙆‍♂️ |
+ | 32 | プロデル | [hanoi.rdr](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.rdr) | [Hirokazu Taniguchi] | 🙅‍♂️ |
+ | 33 | なでしこ | [hanoi.nako](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.nako) | [Hirokazu Taniguchi] | 🙅‍♂️ |
+ | 34 | Wolfram | [hanoi.wl](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.wl)  | [AstroKen] | 🙅‍♂️ |
  | 35 | Groovy | [hanoi.groovy](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.groovy) | [shumaikunkun] | 🙆‍♂️ |
  | 36 | Kuin | [hanoi.kn](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.kn) | [narumincho] | 🙆‍♂️ |
  | 37 | Ada | [hanoi.ada](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ada) | [shumaikunkun] | 🙆‍♂️ |
@@ -46,14 +46,14 @@
  | 39 | Scala | [hanoi.scala](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.scala) | [shumaikunkun] | 🙆‍♂️ |
  | 40 | Scheme | [hanoi.scm](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.scm) | [shumaikunkun] | 🙆‍♂️ |
  | 41 | Crystal | [hanoi.cr](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.cr) | [Masato Sugiyama] | 🙆‍♂️ |
- | 42 | Fantom | [hanoi.fan](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.fan) | [shumaikunkun] | 🙆‍♂️ |
+ | 42 | Fantom | [hanoi.fan](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.fan) | [shumaikunkun] | 🙅‍♂️ |
  | 43 | Pike | [hanoi.pike](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.pike) | [shumaikunkun] | 🙆‍♂️ |
  | 44 | AWK | [hanoi.awk](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.awk) | [shumaikunkun] | 🙆‍♂️ |
  | 45 | Julia | [hanoi.jl](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.jl) | [0x005c] | 🙆‍♂️ |
  | 46 | Ook! | [hanoi.ook](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ook) | [shumaikunkun] | 🙆‍♂️ |
  | 47 | bc | [hanoi.bc](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.bc) | [shumaikunkun] | 🙆‍♂️ |
- | 48 | Aleph | [hanoi.als](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.als) | [shumaikunkun] | 🙆‍♂️ |
- | 49 | Erlang | [hanoi.erl](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.erl) | [shumaikunkun] | 🙆‍♂️ |
+ | 48 | Aleph | [hanoi.als](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.als) | [shumaikunkun] | 🙅‍♂️ |
+ | 49 | Erlang | [hanoi.erl](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.erl) | [shumaikunkun] | 🙅‍♂️ |
  | 50 | ksh | [hanoi.ksh](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ksh) | [shumaikunkun] | 🙆‍♂️ |
 
 
