@@ -53,6 +53,7 @@
  | 46 | Ook! | [hanoi.ook](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ook) | [shumaikunkun] |
  | 47 | bc | [hanoi.bc](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.bc) | [shumaikunkun] |
  | 48 | Aleph | [hanoi.als](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.als) | [shumaikunkun] |
+ | 49 | Erlang | [hanoi.erl](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.arl) | [shumaikunkun] |
 
 
 [shumaikunkun]:https://github.com/shumaikunkun
