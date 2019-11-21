@@ -54,6 +54,8 @@
  | 47 | bc | [hanoi.bc](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.bc) | [shumaikunkun] |
  | 48 | Aleph | [hanoi.als](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.als) | [shumaikunkun] |
  | 49 | Erlang | [hanoi.erl](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.erl) | [shumaikunkun] |
+ | 50 | ksh | [hanoi.ksh](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ksh) | [shumaikunkun] |
+
 
 
 [shumaikunkun]:https://github.com/shumaikunkun
