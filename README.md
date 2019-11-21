@@ -71,8 +71,9 @@
 
 ## 主な実行環境
 + ローカルの実行環境
-+ ideone.com(http://ideone.com/)
-+ coding ground(https://www.tutorialspoint.com/codingground.htm)
++ Web上のIDE
+    + ideone.com(http://ideone.com/)
+    + coding ground(https://www.tutorialspoint.com/codingground.htm)
 
 
 ## 入出力例
