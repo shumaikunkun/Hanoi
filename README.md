@@ -55,7 +55,7 @@
  | 48 | Aleph | [hanoi.als](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.als) | [shumaikunkun] | 🙅‍♂️ |
  | 49 | Erlang | [hanoi.erl](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.erl) | [shumaikunkun] | 🙅‍♂️ |
  | 50 | ksh | [hanoi.ksh](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ksh) | [shumaikunkun] | 🙆‍♂️ |
- | 51 | Kurogoma4D | [hanoi.dart](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.dart) | [Kurogoma4D] | 🙆‍♂️ |
+ | 51 | Dart | [hanoi.dart](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.dart) | [Kurogoma4D] | 🙆‍♂️ |
 
 
 [shumaikunkun]:https://github.com/shumaikunkun
