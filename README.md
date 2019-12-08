@@ -55,7 +55,7 @@
  | 48 | Aleph | [hanoi.als](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.als) | [shumaikunkun] | 🙅‍♂️ |
  | 49 | Erlang | [hanoi.erl](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.erl) | [shumaikunkun] | 🙅‍♂️ |
  | 50 | ksh | [hanoi.ksh](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ksh) | [shumaikunkun] | 🙆‍♂️ |
-
+ | 51 | Kurogoma4D | [hanoi.dart](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.dart) | [Kurogoma4D] | 🙆‍♂️ |
 
 
 [shumaikunkun]:https://github.com/shumaikunkun
@@ -65,6 +65,7 @@
 [Taiga Nishimura]:https://github.com/TaigaNatto
 [Masato Sugiyama]:https://github.com/smasato
 [0x005c]:https://github.com/0x005c
+[Kurogoma4D]:https://github.com/Kurogoma4D
 
 ## 目的
 入出力や条件分岐、再帰によるサブ関数の作成や呼び出しなど、プログラミングにおける基本文法を様々な言語で実装することで、比較したり新たな言語を発掘し基本文法の学習に役立てる。
