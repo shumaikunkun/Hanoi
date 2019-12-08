@@ -77,5 +77,12 @@
 
 
 ## 入出力例
-+ Input `3`
-+ Output `a=>b a=>c b=>c a=>b c=>a c=>b a=>b`
++ 1
+    + Input `2`
+    + Output `a=>c a=>b c=>b`
++ 2
+    + Input `3`
+    + Output `a=>b a=>c b=>c a=>b c=>a c=>b a=>b`
++ 3
+    + Input `4`
+    + Output `a=>c a=>b c=>b a=>c b=>a b=>c a=>c a=>b c=>b c=>a b=>a c=>b a=>c a=>b c=>b`
