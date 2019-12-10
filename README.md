@@ -72,9 +72,16 @@
 
 ## 主な実行環境
 + ローカルの実行環境
+    + sh
+    + ksh
+
 + Web上のIDE
-    + ideone.com(http://ideone.com/)
-    + coding ground(https://www.tutorialspoint.com/codingground.htm)
+    + 大多数の言語
+        + ideone.com(http://ideone.com/)
+        + coding ground(https://www.tutorialspoint.com/codingground.htm) 
+    + Ook!
+        + Ook! Interpreter(https://gc.de/gc/ook/)
+    
 
 
 ## 入出力例
