@@ -56,6 +56,9 @@
  | 49 | Erlang | [hanoi.erl](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.erl) | [shumaikunkun] | 🙅‍♂️ |
  | 50 | ksh | [hanoi.ksh](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ksh) | [shumaikunkun] | 🙆‍♂️ |
  | 51 | Dart | [hanoi.dart](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.dart) | [Kurogoma4D] | 🙆‍♂️ |
+ | 52 | Io | [hanoi.dart](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.io) | [matoruru] | 🙆‍♂️ |
+ | 53 | Fish | [hanoi.dart](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.fish) | [matoruru] | 🙆‍♂️ |
+ | 54 | Closure | [hanoi.dart](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.clj) | [matoruru] | 🙆‍♂️ |
 
 
 [shumaikunkun]:https://github.com/shumaikunkun
