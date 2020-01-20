@@ -66,6 +66,7 @@
 [Masato Sugiyama]:https://github.com/smasato
 [0x005c]:https://github.com/0x005c
 [Kurogoma4D]:https://github.com/Kurogoma4D
+[matoruru]:https://github.com/matoruru
 
 ## 目的
 入出力や条件分岐、再帰によるサブ関数の作成や呼び出しなど、プログラミングにおける基本文法を様々な言語で実装することで、比較したり新たな言語を発掘し基本文法の学習に役立てる。
