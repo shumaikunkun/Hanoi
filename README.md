@@ -60,7 +60,7 @@
  | 53 | Fish | [hanoi.fish](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.fish) | [matoruru] | 🙆‍♂️ |
  | 54 | Closure | [hanoi.clj](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.clj) | [matoruru] | 🙆‍♂️ |
  | 55 | Idris | [hanoi.idr](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.idr) | [matoruru] | 🙆‍♂️ |
-
+ | 56 | Swift | [hanoi.swift](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.swift) | [shumaikunkun] | 🙆‍♂️ |
 
 [shumaikunkun]:https://github.com/shumaikunkun
 [narumincho]:https://github.com/narumincho
