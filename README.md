@@ -59,6 +59,7 @@
  | 52 | Io | [hanoi.io](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.io) | [matoruru] | 🙆‍♂️ |
  | 53 | Fish | [hanoi.fish](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.fish) | [matoruru] | 🙆‍♂️ |
  | 54 | Closure | [hanoi.clj](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.clj) | [matoruru] | 🙆‍♂️ |
+ | 55 | Idris | [hanoi.idr](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.idr) | [matoruru] | 🙆‍♂️ |
 
 
 [shumaikunkun]:https://github.com/shumaikunkun
