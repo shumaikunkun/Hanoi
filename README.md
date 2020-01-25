@@ -61,6 +61,11 @@
  | 54 | Closure | [hanoi.clj](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.clj) | [matoruru] | 🙆‍♂️ |
  | 55 | Idris | [hanoi.idr](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.idr) | [matoruru] | 🙆‍♂️ |
  | 56 | Swift | [hanoi.swift](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.swift) | [shumaikunkun] | 🙆‍♂️ |
+ | 57 | Lua | [hanoi.lua](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.lua) | [matoruru] | 🙆‍♂️ |
+ | 58 | LLVM | [hanoi.ll](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ll) | [matoruru] | 🙆‍♂️ |
+ | 59 | V | [hanoi.v](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.v) | [matoruru] | 🙆‍♂️ |
+ | 60 | Nim | [hanoi.nim](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.nim) | [matoruru] | 🙆‍♂️ |
+
 
 [shumaikunkun]:https://github.com/shumaikunkun
 [narumincho]:https://github.com/narumincho
@@ -83,10 +88,10 @@
 + Web上のIDE
     + 大多数の言語
         + ideone.com(http://ideone.com/)
-        + coding ground(https://www.tutorialspoint.com/codingground.htm) 
+        + coding ground(https://www.tutorialspoint.com/codingground.htm)
     + Ook!
         + Ook! Interpreter(https://gc.de/gc/ook/)
-    
+
 
 
 ## 入出力例
