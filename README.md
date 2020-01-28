@@ -65,6 +65,7 @@
  | 58 | LLVM | [hanoi.ll](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.ll) | [matoruru] | 🙆‍♂️ |
  | 59 | V | [hanoi.v](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.v) | [matoruru] | 🙆‍♂️ |
  | 60 | Nim | [hanoi.nim](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.nim) | [matoruru] | 🙆‍♂️ |
+ | 61 | VimScript | [hanoi.vim](https://github.com/shumaikunkun/Hanoi/blob/master/hanoi.vim) | [matoruru] | 🙆‍♂️ |
 
 
 [shumaikunkun]:https://github.com/shumaikunkun
